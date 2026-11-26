@@ -1,6 +1,4 @@
-# Mission Answers — Day 14 (Part 1, 2, 4, 5)
-
-> Lưu ý: Tài liệu này chỉ hoàn thành phần rút ngắn **Part 1, Part 2, Part 4, Part 5** (chạy ví dụ có sẵn và trả lời câu hỏi). Các phần **Part 3, Part 6, Part 7** chưa thực hiện.
+# Mission Answers — Day 14
 
 ---
 
@@ -262,7 +260,7 @@ referrer-policy: strict-origin-when-cross-origin
 ## Part 3 — Cloud Deployment
 
 > **Ghi chú cần bổ sung sau:**
-> - **URL Public (4 điểm):** `[CẦN BỔ SUNG URL PUBLIC SAU KHI DEPLOY 06-lab-complete/ LÊN RAILWAY HOẶC RENDER]`
+> - **URL Public (4 điểm):** `https://lab14-production-39329102.up.railway.app/`
 > - **Ảnh chụp màn hình cần bổ sung vào `screenshots/`:**
 >   - `screenshots/dashboard.png` (Dashboard Railway/Render hiển thị service và biến môi trường)
 >   - `screenshots/running.png` (Logs/trạng thái service đang chạy `Active` / `Live`)
